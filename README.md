@@ -23,4 +23,17 @@ Highly accomplished IT Systems Architect and Deep Tech Specialist with 500+ cert
 *   **Security:** Advanced Cybersecurity Frameworks & Resilient Architecture.
 
 ---
+<h1 align="center">Medium Publications</h1>
 
+<table align="center" style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 33%; vertical-align: top; border: none; padding: 10px;">
+      <a href="https://medium.com/@dgiannopoulos_32736/the-paradox-of-personal-ai-f3cdf5951c74">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*vynryEDAcwB-eFEShayDcg.jpeg" style="width: 100%; border-radius: 8px;">
+      </a>
+      <p style="font-size: 13px; font-weight: bold; margin-top: 5px;">The Paradox of Personal AI</p>
+    </td>
+    
+   
+  </tr>
+</table>
