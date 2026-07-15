@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Dimitris
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&random=false&width=550&height=50&letterSpacing=-1px&lines=Welcome+to+my+GitHub!;I+love+Network+💻;Learning+new+things+🚀;Building+amazing+projects+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&random=false&width=550&height=50&letterSpacing=-1px&lines=Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
 
 ## Dimitriοs Giannopoulos
