@@ -34,6 +34,14 @@ Highly accomplished IT Systems Architect and Deep Tech Specialist with 500+ cert
       <p style="font-size: 13px; font-weight: bold; margin-top: 5px;">The Paradox of Personal AI</p>
     </td>
     
-   
+  
   </tr>
 </table>
+
+
+ Μπορείτε να βρείτε περισσότερες πληροφορίες για το έργο μου και τις δημοσιεύσεις μου εδώ:
+- [Google Scholar](https://scholar.google.com/citations?user=IcXVSq0AAAAJ&hl=el)
+- [LinkedIn](https://www.linkedin.com/in/giannopoulosdimitrios)
+- [ORCID](https://orcid.org/0009-0005-6380-3163)
+- [Dev.to](https://dev.to/dimitrisgiannopoulos)
+- [Medium](https://medium.com/@dgiannopoulos_32736)
