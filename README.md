@@ -47,7 +47,7 @@ Web of Science ResearcherID: QTS-7063-2026
       <p style="font-size: 13px; font-weight: bold; margin-top: 5px;">The Paradox of Personal AI</p>
     </td>
     
-  
+  <meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
   </tr>
 </table>
 
@@ -58,3 +58,5 @@ Web of Science ResearcherID: QTS-7063-2026
 - [ORCID](https://orcid.org/0009-0005-6380-3163)
 - [Dev.to](https://dev.to/dimitrisgiannopoulos)
 - [Medium](https://medium.com/@dgiannopoulos_32736)
+
+<meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
