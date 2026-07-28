@@ -1,3 +1,6 @@
+
+<meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
+
 ## Hi there! 👋 I'm Dimitris Giannopoulos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&random=false&width=550&height=50&letterSpacing=-1px&lines=Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
