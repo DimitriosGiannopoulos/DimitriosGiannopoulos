@@ -22,6 +22,16 @@ Highly accomplished IT Systems Architect and Deep Tech Specialist with 500+ cert
 *   **Advanced Tech:** Generative AI, Neuromorphic Computing, 5G/6G RF Design.
 *   **Security:** Advanced Cybersecurity Frameworks & Resilient Architecture.
 
+Professional & Research Credentials:
+
+Association for Computing Machinery (ACM): Member (No. 8795535)
+
+EURAXESS: Research Network Member
+
+ORCID: 0009-0005-6380-3163
+
+Web of Science ResearcherID: QTS-7063-2026
+
 ---
 <h1 align="center">Medium Publications</h1>
 
