@@ -58,5 +58,6 @@ Web of Science ResearcherID: QTS-7063-2026
 - [ORCID](https://orcid.org/0009-0005-6380-3163)
 - [Dev.to](https://dev.to/dimitrisgiannopoulos)
 - [Medium](https://medium.com/@dgiannopoulos_32736)
+- [About.me](https://about.me/dimitriosgiannopoulos)
 
 <meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
