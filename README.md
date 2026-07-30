@@ -76,14 +76,9 @@ Web of Science ResearcherID: QTS-7063-2026
 
 
 
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/VISITORS-24,982,092-ff0055?style=for-the-badge&logo=awesomewm&logoColor=00ffff&labelColor=1a1a1a" alt="Cyberpunk Counter" />
+</p>
 
 
 
