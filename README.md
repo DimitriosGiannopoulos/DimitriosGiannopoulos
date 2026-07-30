@@ -91,7 +91,11 @@ Web of Science ResearcherID: QTS-7063-2026
 
 
 
+<h3 align="center">⚡ Recent Activity</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 
 <meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
