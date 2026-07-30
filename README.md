@@ -53,11 +53,15 @@ Web of Science ResearcherID: QTS-7063-2026
 
 
  Μπορείτε να βρείτε περισσότερες πληροφορίες για το έργο μου και τις δημοσιεύσεις μου εδώ:
-- [Google Scholar](https://scholar.google.com/citations?user=IcXVSq0AAAAJ&hl=el)
-- [LinkedIn](https://www.linkedin.com/in/giannopoulosdimitrios)
-- [ORCID](https://orcid.org/0009-0005-6380-3163)
-- [Dev.to](https://dev.to/dimitrisgiannopoulos)
+
+- [Dev.to](https://dev.to/dimitrisgiannopoulos) - [LinkedIn](https://www.linkedin.com/in/giannopoulosdimitrios) - [ORCID](https://orcid.org/0009-0005-6380-3163) - [About.me](https://about.me/dimitriosgiannopoulos) - [Academia](https://independent.academia.edu/DimitrisGiannopoulos11) 
+
+
 - [Medium](https://medium.com/@dgiannopoulos_32736)
-- [About.me](https://about.me/dimitriosgiannopoulos)
+
+- [Google Scholar](https://scholar.google.com/citations?user=IcXVSq0AAAAJ&hl=el)
+- [Web of Science](https://www.webofscience.com/wos/author/record/QTS-7063-2026)
+- [Hackerone](https://hackerone.com/dimitriosgiannopoulos)
+
 
 <meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
