@@ -54,14 +54,54 @@ Web of Science ResearcherID: QTS-7063-2026
 
  Μπορείτε να βρείτε περισσότερες πληροφορίες για το έργο μου και τις δημοσιεύσεις μου εδώ:
 
-- [Dev.to](https://dev.to/dimitrisgiannopoulos) - [LinkedIn](https://www.linkedin.com/in/giannopoulosdimitrios) - [ORCID](https://orcid.org/0009-0005-6380-3163) - [About.me](https://about.me/dimitriosgiannopoulos) - [Academia](https://independent.academia.edu/DimitrisGiannopoulos11) 
+- [Dev](https://dev.to/dimitrisgiannopoulos) - [LinkedIn](https://www.linkedin.com/in/giannopoulosdimitrios) - [ORCID](https://orcid.org/0009-0005-6380-3163) - [About.me](https://about.me/dimitriosgiannopoulos) - [Academia](https://independent.academia.edu/DimitrisGiannopoulos11) - [Hackerone](https://hackerone.com/dimitriosgiannopoulos) - [Indiehackers](https://www.indiehackers.com/dgiannopoulos) - [Medium](https://medium.com/@dgiannopoulos_32736) - [Web of Science](https://www.webofscience.com/wos/author/record/QTS-7063-2026) - [Google Scholar](https://scholar.google.com/citations?user=IcXVSq0AAAAJ&hl=el) - [Hackernoon](https://hackernoon.com/u/dimitrisgiannopoulos)   - [X-Twitter](https://x.com/dimitrisyanno)  - [Stackexchange](https://stackexchange.com/users/46772085/dimitri%ce%bfs-giannopoulos) - [Behance](https://www.behance.net/dimitrigiannop3)  - [Crunchbase](https://crunchbase.com/person/dimitris-giannopoulos-b0f1) - [Crunchbase](https://crunchbase.com/person/dimitris-giannopoulos-b0f1) - [Linktr](https://linktr.ee/dgiannopoulos) - [Medium](https://medium.com/@dgiannopoulos_32736) - [Gravatar](https://gravatar.com/giannopoulosdimitris) - [Carrd](https://dimitriosgiannopoulos.carrd.co/) - [kaggle](https://www.kaggle.com/dgiannopoulos) - [Peerlist](https://peerlist.io/dgiannopoulos) - [Hashnode](https://hashnode.com/@dimitrisgiannopoulos) - [Notion](https://dimitrisgiannopoulos.notion.site/Dimitrios-Giannopoulos-3ad7b92d7e60801da447c140ce66608e) - [Lnk](https://lnk.bio/dimitrisgiannopoulos) - [Taplink](https://dimitriosgiannopoulos.taplink.bio) - [Producthunt](https://www.producthunt.com/@dimitris_giannopoulos) - [Indiehackers](https://www.indiehackers.com/dgiannopoulos)
 
 
-- [Medium](https://medium.com/@dgiannopoulos_32736)
 
-- [Google Scholar](https://scholar.google.com/citations?user=IcXVSq0AAAAJ&hl=el)
-- [Web of Science](https://www.webofscience.com/wos/author/record/QTS-7063-2026)
-- [Hackerone](https://hackerone.com/dimitriosgiannopoulos)
+
+
+
+
+
+# 🌐 Connect with me
+
+# 🌐 Connect with me
+
+* 📝 [Dev.to](https://dev.to)
+* 💼 [LinkedIn](https://linkedin.com)
+* 🆔 [ORCID](https://orcid.org)
+* 👤 [About.me](https://about.me)
+* 🎓 [Academia](https://academia.edu)
+* 🛡️ [Hackerone](https://hackerone.com)
+* 🚀 [Indiehackers](https://indiehackers.com)
+* ✍️ [Medium](https://medium.com)
+* 🔬 [Web of Science](https://webofscience.com)
+* 📚 [Google Scholar](https://google.com)
+* 📰 [Hackernoon](https://hackernoon.com)
+* 🐦 [X-Twitter](https://x.com)
+* 💻 [Stackexchange](https://stackexchange.com)
+* 🎨 [Behance](https://behance.net)
+* 🏢 [Crunchbase](https://crunchbase.com)
+* 🌳 [Linktree](https://linktr.ee)
+* 🖼️ [Gravatar](https://gravatar.com)
+* 📄 [Carrd](https://carrd.co)
+* 📊 [Kaggle](https://kaggle.com)
+* 🤝 [Peerlist](https://peerlist.io)
+* ✍️ [Hashnode](https://hashnode.com)
+* 📓 [Notion](https://notion.site)
+* 🔗 [Lnk.bio](https://lnk.bio)
+* 🎛️ [Taplink](https://taplink.bio)
+* 🐱 [Producthunt](https://producthunt.com)
+
+
+
+
+
+
+
+
+
+
 
 
 <meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
