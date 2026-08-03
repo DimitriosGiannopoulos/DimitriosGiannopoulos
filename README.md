@@ -86,7 +86,17 @@ Web of Science ResearcherID: QTS-7063-2026
 
 
 
+<!-- chess game -->
+# ♟️ Παίξε Σκάκι μαζί μου!
 
+Κάνε μια κίνηση πατώντας σε ένα από τα διαθέσιμα τετράγωνα παρακάτω!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/main/board.svg" alt="Chess Board" />
+</p>
+
+*Τελευταία κίνηση: Δες το ιστορικό στα Issues!*
+<!-- end chess game -->
 
 
 
