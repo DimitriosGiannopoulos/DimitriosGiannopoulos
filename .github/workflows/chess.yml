@@ -1,0 +1,19 @@
+name: "Chess Game"
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Play Chess Move
+        uses: TimBergman/chess-readme@v1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
