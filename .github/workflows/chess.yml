@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Play Chess Move
-        uses: TimBergman/chess-readme@v1
+      - name: Play Chess
+        uses: TimBergman/Connect4-GitHub-Readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
