@@ -36,8 +36,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
-          cp engine/main.py ./
+          cp -r engine/data ./ 2>/dev/null || true
           cp -r engine/src ./ 2>/dev/null || true
+          cp engine/main.py ./
           python main.py
           rm -rf engine main.py src
 
