@@ -86,15 +86,6 @@ Web of Science ResearcherID: QTS-7063-2026
 
 
 
-# ♟️ Παίξε Σκάκι μαζί μου!
-
-Κάνε μια κίνηση πατώντας σε ένα από τα διαθέσιμα τετράγωνα παρακάτω!
-
-<p align="center">
-  <img src="./board.svg" alt="Chess Board" width="450">
-</p>
-
-*Τελευταία κίνηση: Δες το ιστορικό στα Issues!*
 
 
 
