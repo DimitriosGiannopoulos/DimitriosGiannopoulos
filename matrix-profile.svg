@@ -51,9 +51,9 @@
 
   <!-- Foreground Text -->
   <text x="50%" y="200" font-family="'Segoe UI', sans-serif" font-size="52" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="2">
-    DIMITRIOS GIANNOPOULOS
+    Dimitrios Giannopoulos
   </text>
   <text x="50%" y="250" font-family="monospace" font-size="22" fill="#00ff66" text-anchor="middle" letter-spacing="4">
-    [ SYSTEM ARCHITECT &amp; AI RESEARCHER ]
+    [IT SYSTEMS ARCHITECT &amp; AI RESEARCHER ]
   </text>
 </svg>
