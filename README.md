@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-I'm a highly accomplished **IT Systems Architect** and **Deep Tech Specialist** with **500+ certified credentials**.  
+I'm a **IT Systems Architect** and **Deep Tech Specialist** with **500+ certified credentials**.  
 My work sits at the intersection of the **Physical Layer** (RF Design, 5G/6G, Non‑Terrestrial Networks) and the **Cognitive Layer** (Generative AI, Neuromorphic Computing).  
 I design secure, resilient architectures by integrating advanced cybersecurity frameworks with cloud‑native orchestration.
 
