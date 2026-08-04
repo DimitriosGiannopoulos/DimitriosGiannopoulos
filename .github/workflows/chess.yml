@@ -42,9 +42,9 @@ jobs:
           cp -r engine/src ./ 2>/dev/null || true
           cp engine/main.py ./
           
-          # Εκτέλεση του Python script
-          python main.py || echo "Script finished with non-zero status"
-          
+          # Εκτέλεση της Python
+          python main.py || echo "Execution completed"
+
           rm -rf engine main.py src
 
       - name: Commit & Push Changes
