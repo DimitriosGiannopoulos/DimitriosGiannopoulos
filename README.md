@@ -1,3 +1,6 @@
+
+
+
 <img width="1983" height="793" alt="1675194e-6e76-4f06-8b8e-c6aa82344655" src="https://github.com/user-attachments/assets/9769f90a-71a0-4d09-b990-372d4e9d9827" />
 
 
@@ -106,4 +109,10 @@ Web of Science ResearcherID: QTS-7063-2026
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+
+
+<p align="center">
+  <img src="./matrix-profile.svg" width="100%" />
 </p>
