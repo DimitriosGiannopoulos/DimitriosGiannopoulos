@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="400px" viewBox="0 0 800 400" preserveAspectRatio="none">
+  <!-- 1. Background -->
+  <rect width="100%" height="100%" fill="black"/>
+
+  <!-- 2. Matrix Rain Effect -->
+  <style>
+    @keyframes rain {
+      0% { transform: translateY(-400px); opacity: 0; }
+      20% { opacity: 0.5; }
+      80% { opacity: 0.5; }
+      100% { transform: translateY(400px); opacity: 0; }
+    }
+    .matrix-text {
+      fill: #0F0;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      animation: rain 3s linear infinite;
+      opacity: 0.3; /* Πιο αχνό για να μην ενοχλεί το κύριο κείμενο */
+    }
+    /* Delays for randomization */
+    .c1 { animation-delay: 0s; } .c2 { animation-delay: 0.5s; } .c3 { animation-delay: 1s; }
+    .c4 { animation-delay: 1.5s; } .c5 { animation-delay: 2s; } .c6 { animation-delay: 2.5s; }
+  </style>
+
+  <g class="matrix-rain">
+    <!-- Επανάληψη στυλών για εφέ Matrix (ενδεικτικά) -->
+    <text x="20" y="20" class="matrix-text c1">アィイゥウェエォオカガキギ</text>
+    <text x="60" y="20" class="matrix-text c3">0123456789ABCDEFGHIJK</text>
+    <text x="100" y="20" class="matrix-text c5">ケゲコゴサザシジスズセゼ</text>
+    <text x="140" y="20" class="matrix-text c2">WXYZαβγδεζηθικλμνξο</text>
+    <text x="180" y="20" class="matrix-text c4">タダチヂッツヅテデトドナ</text>
+    <text x="220" y="20" class="matrix-text c6">ヒビピフブプヘベペホボポ</text>
+    <text x="260" y="20" class="matrix-text c1">0123456789</text>
+    <text x="300" y="20" class="matrix-text c3">アィイゥウェエォオカガキギ</text>
+    <text x="340" y="20" class="matrix-text c5">WXYZαβγδεζηθικλμνξο</text>
+    <text x="380" y="20" class="matrix-text c2">0123456789ABCDEFGHIJK</text>
+    <text x="420" y="20" class="matrix-text c4">ケゲコゴサザシジスズセゼ</text>
+    <text x="460" y="20" class="matrix-text c6">ヒビピフブプヘベペホボポ</text>
+    <text x="500" y="20" class="matrix-text c1">アィイゥウェエォオカガキギ</text>
+    <text x="540" y="20" class="matrix-text c3">0123456789</text>
+    <text x="580" y="20" class="matrix-text c5">WXYZαβγδεζηθικλμνξο</text>
+    <text x="620" y="20" class="matrix-text c2">0123456789ABCDEFGHIJK</text>
+    <text x="660" y="20" class="matrix-text c4">タダチヂッツヅテデトドナ</text>
+    <text x="700" y="20" class="matrix-text c6">ヒビピフブプヘベペホボポ</text>
+    <text x="740" y="20" class="matrix-text c1">0123456789</text>
+    <text x="780" y="20" class="matrix-text c3">アィイゥウェエォオカガキギ</text>
+  </g>
+
+  <!-- 3. Your Profile Content (Foreground) -->
+  <!-- Κύριο Όνομα -->
+  <text x="50%" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">
+    Dimitrios Giannopoulos
+  </text>
+  
+  <!-- Υπότιτλος / Ρόλος -->
+  <text x="50%" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#CCC" text-anchor="middle">
+    AI Researcher | Developer | Cyber Enthusiast
+  </text>
+  
+  <!-- Εικονίδια Social (Χρησιμοποιούμε Unicode ή απλά badges) -->
+  <g transform="translate(400, 200)" text-anchor="middle">
+    <text x="-120" y="0" font-family="serif" font-size="24" fill="white">🔗 LinkedIn</text>
+    <text x="0" y="0" font-family="serif" font-size="24" fill="white">🐙 GitHub</text>
+    <text x="120" y="0" font-family="serif" font-size="24" fill="white">🐦 Twitter</text>
+  </g>
+  
+  <!-- Tech Stack Title -->
+  <text x="50%" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">
+    Tech Stack
+  </text>
+  
+  <!-- Tech Stack Icons (badged style) -->
+  <g transform="translate(400, 320)" text-anchor="middle">
+     <rect x="-160" y="-15" width="70" height="30" rx="5" fill="#3776AB"/>
+     <text x="-125" y="7" font-family="Arial" font-size="14" fill="white">Python</text>
+     
+     <rect x="-60" y="-15" width="120" height="30" rx="5" fill="#F7DF1E"/>
+     <text x="0" y="7" font-family="Arial" font-size="14" fill="black">JavaScript</text>
+     
+     <rect x="90" y="-15" width="70" height="30" rx="5" fill="#007ACC"/>
+     <text x="125" y="7" font-family="Arial" font-size="14" fill="white">VS Code</text>
+  </g>
+</svg>
