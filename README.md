@@ -42,8 +42,8 @@ I design secure, resilient architectures by integrating advanced cybersecurity f
 
 ### 📄 Research & Publications
 
-- **ORCID**: [0009‑0005‑6380‑3163](https://orcid.org/0009-0005-6380-3163)  
-- **Web of Science**: [QTS‑7063‑2026](https://www.webofscience.com/wos/author/record/QTS-7063-2026)  
+- **ORCID**: [0009‑0005‑6380‑3163]  
+- **Web of Science**: [QTS‑7063‑2026]  
 - **EURAXESS**: Research Network Member  
 
 #### 📝 Featured Medium Article
