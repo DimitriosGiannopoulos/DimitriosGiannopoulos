@@ -118,23 +118,29 @@ Web of Science ResearcherID: QTS-7063-2026
   <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/main/matrix-profile.svg" width="100%" alt="Matrix Banner" />
 </p>
 
-# 👨‍💻 Dimitrios Giannopoulos
-### 
+<div align="center">
 
-> Leveraging LLMs, Machine Learning, and Automated Threat Intelligence to build secure & resilient architectures.
+# 👨‍💻 Dimitrios Giannopoulos
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=AI+Security+%26+Threat+Intelligence;Neuromorphic+Computing+%26+SNNs;Quantum-AI+%26+CUDA+Engine+Architect)](https://git.io/typing-svg)
+
+> *Leveraging LLMs, Machine Learning, CUDA Acceleration, and Neuromorphic Dynamics to build resilient high-performance architectures.*
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
-### **AI / Machine Learning & Security**
+#### 🤖 AI / Machine Learning & Security
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **DevOps & Tools**
+#### 🚀 MLOps & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -142,16 +148,15 @@ Web of Science ResearcherID: QTS-7063-2026
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=matrix&hide_border=true&count_private=true" alt="Dimitrios's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=matrix&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" height="165" alt="Top Languages" />
 
----
+<br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=dark&background=0D1117&fire=00FF66&ring=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
+
+</div>
