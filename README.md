@@ -120,6 +120,8 @@ Web of Science ResearcherID: QTS-7063-2026
 
 <div align="center">
 
+
+
 # 👨‍💻 Dimitrios Giannopoulos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=AI+Security+%26+Threat+Intelligence;Neuromorphic+Computing+%26+SNNs;Quantum-AI+%26+CUDA+Engine+Architect)](https://git.io/typing-svg)
@@ -150,13 +152,17 @@ Web of Science ResearcherID: QTS-7063-2026
 
 ### 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/DimitriosGiannopoulos">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" width="48%" />
+  </a>
+  <a href="https://github.com/DimitriosGiannopoulos">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="48%" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=dark&background=0D1117&fire=00FF66&ring=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/DimitriosGiannopoulos">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=dark&background=0D1117&fire=00FF66&ring=00FF66&currStreakLabel=00FF66" width="60%" />
+  </a>
+</p>
