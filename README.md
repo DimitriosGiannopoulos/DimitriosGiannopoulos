@@ -90,13 +90,13 @@ Web of Science ResearcherID: QTS-7063-2026
 
 Κάνε μια κίνηση πατώντας σε ένα από τα διαθέσιμα τετράγωνα παρακάτω!
 
-<!-- README-CHESS-BOARD:START -->
 <p align="center">
-  <img src="./chessboard.svg" alt="Chess Board" width="400">
+  <img src="./board.svg" alt="Chess Board" width="450">
 </p>
-<!-- README-CHESS-BOARD:END -->
 
 *Τελευταία κίνηση: Δες το ιστορικό στα Issues!*
+
+
 
 
 
