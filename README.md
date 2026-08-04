@@ -1,168 +1,120 @@
-
-
-
-<img width="1983" height="793" alt="1675194e-6e76-4f06-8b8e-c6aa82344655" src="https://github.com/user-attachments/assets/9769f90a-71a0-4d09-b990-372d4e9d9827" />
-
-
-<meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
-
-## Hi there! 👋 I'm Dimitris Giannopoulos
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&random=false&width=550&height=50&letterSpacing=-1px&lines=Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
-
-
-## Dimitriοs Giannopoulos
-### IT Systems Architect & Deep Tech Specialist | RF Design, 5G/6G & NTN | AI, Deep Learning & Cybersecurity 
-IBM Certified Professional |
-Microsoft Certified Professional |
-Google Certified Professional
-
-
----
-
-### 🚀 Professional Summary
-Highly accomplished IT Systems Architect and Deep Tech Specialist with 500+ certified credentials. My expertise lies in the cross-disciplinary convergence of the **Physical Layer** (RF Design, 5G/6G, NTN) and the **Cognitive Layer** (Generative AI, Neuromorphic Computing). I specialize in the formal synthesis of secure, resilient architectures, integrating advanced Cybersecurity frameworks with Cloud-Native orchestration.
-
-
-
-### 💼 Technical Expertise
-*   **Infrastructure:** Cloud-Native Orchestration, High-Assurance Systems.
-*   **Advanced Tech:** Generative AI, Neuromorphic Computing, 5G/6G RF Design.
-*   **Security:** Advanced Cybersecurity Frameworks & Resilient Architecture.
-
-Professional & Research Credentials:
-
-Association for Computing Machinery (ACM): Member (No. 8795535)
-
-EURAXESS: Research Network Member
-
-ORCID: 0009-0005-6380-3163
-
-Web of Science ResearcherID: QTS-7063-2026
-
----
-<h1 align="center">Medium Publications</h1>
-
-<table align="center" style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 33%; vertical-align: top; border: none; padding: 10px;">
-      <a href="https://medium.com/@dgiannopoulos_32736/the-paradox-of-personal-ai-f3cdf5951c74">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*vynryEDAcwB-eFEShayDcg.jpeg" style="width: 100%; border-radius: 8px;">
-      </a>
-      <p style="font-size: 13px; font-weight: bold; margin-top: 5px;">The Paradox of Personal AI</p>
-    </td>
-    
-  <meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
-  </tr>
-</table>
-
-
- 
-
-
-
-
-
-# 🌐 Connect with me
-
-
-
-📝 [Dev](https://dev.to/dimitrisgiannopoulos)_ - 💼 [LinkedIn](https://www.linkedin.com/in/giannopoulosdimitrios) - 🆔 [ORCID](https://orcid.org/0009-0005-6380-3163) - 👤 [About.me](https://about.me/dimitriosgiannopoulos) - 🎓 [Academia](https://independent.academia.edu/DimitrisGiannopoulos11)  - 🛡️ [Hackerone](https://hackerone.com/dimitriosgiannopoulos)  - 🚀 [Indiehackers](https://www.indiehackers.com/dgiannopoulos)  - ✍️ [Medium](https://medium.com/@dgiannopoulos_32736)  - 🔬 [Web of Science](https://www.webofscience.com/wos/author/record/QTS-7063-2026)    📚 [Google Scholar](https://google.com) - 📰 [Hackernoon](https://hackernoon.com/u/dimitrisgiannopoulos) - 🐦 [X-Twitter](https://x.com/dimitrisyanno) - 💻 [Stackexchange](https://stackexchange.com/users/46772085/dimitri%ce%bfs-giannopoulos)  🎨 [Behance](https://www.behance.net/dimitrigiannop3) - 🏢 [Crunchbase](https://crunchbase.com/person/dimitris-giannopoulos-b0f1) - 🌳 [Linktr](https://linktr.ee/dgiannopoulos) - 🖼️ [Gravatar](https://gravatar.com/giannopoulosdimitris) - 📄 [Carrd](https://dimitriosgiannopoulos.carrd.co/) - 📊 [kaggle](https://www.kaggle.com/dgiannopoulos) - 🤝 [Peerlist](https://peerlist.io/dgiannopoulos) - ✍️ [Hashnode](https://hashnode.com/@dimitrisgiannopoulos) - 📓 [Notion](https://dimitrisgiannopoulos.notion.site/Dimitrios-Giannopoulos-3ad7b92d7e60801da447c140ce66608e) - 🔗 [Lnk](https://lnk.bio/dimitrisgiannopoulos) - 🎛️ [Taplink](https://dimitriosgiannopoulos.taplink.bio) - 🐱 [Producthunt](https://www.producthunt.com/@dimitris_giannopoulos)
-
-
-
-
-
-
-
-
-
-
-
+<!--
+  DYNAMIC BANNER – replace with your own if desired
+-->
 <p align="center">
-  <img src="https://img.shields.io/badge/VISITORS-24,982,092-ff0055?style=for-the-badge&logo=awesomewm&logoColor=00ffff&labelColor=1a1a1a" alt="Cyberpunk Counter" />
+  <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/main/matrix-profile.svg" width="100%" alt="Matrix Banner" />
 </p>
 
+---
 
+<h1 align="center">👋 Hi, I'm Dimitris Giannopoulos</h1>
 
-
-
-
-
-
-
-
-
-
-<meta name="msvalidate.01" content="F4CC83BFA75B75DFCEF32C0CA963F947" />
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=IT+Systems+Architect;Deep+Tech+%26+RF+Design+Specialist;5G%2F6G+%26+NTN+Researcher;Generative+AI+%26+Cybersecurity+Expert" alt="Typing SVG" />
+</p>
 
 ---
-<h3 align="center">⚡ Recent Activity</h3>
+
+### 🧠 About Me
+
+I'm a highly accomplished **IT Systems Architect** and **Deep Tech Specialist** with **500+ certified credentials**.  
+My work sits at the intersection of the **Physical Layer** (RF Design, 5G/6G, Non‑Terrestrial Networks) and the **Cognitive Layer** (Generative AI, Neuromorphic Computing).  
+I design secure, resilient architectures by integrating advanced cybersecurity frameworks with cloud‑native orchestration.
+
+- 🔭 Currently exploring **Neuromorphic SNNs** and **Quantum‑AI** acceleration.  
+- 🌱 Always learning: CUDA, Qiskit, and next‑gen wireless protocols.  
+- 👯 Open to collaborate on **AI‑driven security** and **high‑performance computing** projects.  
+- 💬 Ask me about **5G/6G PHY**, **LLM security**, or **MLOps**.  
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **AI / ML** | Python, PyTorch, TensorFlow, CUDA, Qiskit, Scikit‑learn |
+| **Security** | Penetration Testing, Threat Intelligence, Zero‑Trust Architecture |
+| **Infrastructure** | Docker, Kubernetes, Linux, Bash, Git, GitHub Actions |
+| **Wireless / RF** | 5G/6G NR, NTN, SDR, MATLAB, HFSS |
+| **Certifications** | IBM Certified Professional, Microsoft Certified Professional, Google Certified Professional, ACM Member (#8795535) |
+
+---
+
+### 📄 Research & Publications
+
+- **ORCID**: [0009‑0005‑6380‑3163](https://orcid.org/0009-0005-6380-3163)  
+- **Web of Science**: [QTS‑7063‑2026](https://www.webofscience.com/wos/author/record/QTS-7063-2026)  
+- **EURAXESS**: Research Network Member  
+
+#### 📝 Featured Medium Article
+<a href="https://medium.com/@dgiannopoulos_32736/the-paradox-of-personal-ai-f3cdf5951c74">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*vynryEDAcwB-eFEShayDcg.jpeg" width="400" alt="The Paradox of Personal AI" />
+  <br />
+  <strong>The Paradox of Personal AI</strong>
+</a>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=dark&background=0D1117&fire=00FF66&ring=00FF66&currStreakLabel=00FF66" width="60%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
 
+### 🌐 Connect With Me
 
-<!-- Matrix Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/main/matrix-profile.svg" width="100%" alt="Matrix Banner" />
-</p>
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dimitrisgiannopoulos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannopoulosdimitrios)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-6380-3163)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dgiannopoulos_32736)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/dimitriosgiannopoulos)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dimitrisyanno)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dgiannopoulos)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@dimitrisgiannopoulos)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@dimitris_giannopoulos)
 
-<div align="center">
+<details>
+<summary><b>📌 More Profiles</b></summary>
 
+- [About.me](https://about.me/dimitriosgiannopoulos)  
+- [Academia.edu](https://independent.academia.edu/DimitrisGiannopoulos11)  
+- [Indie Hackers](https://www.indiehackers.com/dgiannopoulos)  
+- [Hackernoon](https://hackernoon.com/u/dimitrisgiannopoulos)  
+- [Behance](https://www.behance.net/dimitrigiannop3)  
+- [Crunchbase](https://crunchbase.com/person/dimitris-giannopoulos-b0f1)  
+- [Linktr.ee](https://linktr.ee/dgiannopoulos)  
+- [Gravatar](https://gravatar.com/giannopoulosdimitris)  
+- [Peerlist](https://peerlist.io/dgiannopoulos)  
+- [Notion](https://dimitrisgiannopoulos.notion.site/Dimitrios-Giannopoulos-3ad7b92d7e60801da447c140ce66608e)  
+- [Carrd](https://dimitriosgiannopoulos.carrd.co/)  
 
-
-# 👨‍💻 Dimitrios Giannopoulos
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=600&lines=AI+Security+%26+Threat+Intelligence;Neuromorphic+Computing+%26+SNNs;Quantum-AI+%26+CUDA+Engine+Architect)](https://git.io/typing-svg)
-
-> *Leveraging LLMs, Machine Learning, CUDA Acceleration, and Neuromorphic Dynamics to build resilient high-performance architectures.*
-
-</div>
+</details>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🧾 Visitor Counter
 
-#### 🤖 AI / Machine Learning & Security
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 🚀 MLOps & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/VISITORS-24,982,092-ff0055?style=for-the-badge&logo=awesomewm&logoColor=00ffff&labelColor=1a1a1a" alt="Visitor Counter" />
+</p>
 
 ---
 
-### 📊 GitHub Statistics
-
 <p align="center">
-  <a href="https://github.com/DimitriosGiannopoulos">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" width="48%" />
-  </a>
-  <a href="https://github.com/DimitriosGiannopoulos">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DimitriosGiannopoulos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=dark&background=0D1117&fire=00FF66&ring=00FF66&currStreakLabel=00FF66" width="60%" />
-  </a>
+  <i>“Building the bridge between bits and waves.”</i>
 </p>
