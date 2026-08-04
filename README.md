@@ -113,6 +113,45 @@ Web of Science ResearcherID: QTS-7063-2026
 
 
 
+<!-- Matrix Banner -->
 <p align="center">
-  <img src="./matrix-profile.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/DimitriosGiannopoulos/DimitriosGiannopoulos/main/matrix-profile.svg" width="100%" alt="Matrix Banner" />
 </p>
+
+# 👨‍💻 Dimitrios Giannopoulos
+### 
+
+> Leveraging LLMs, Machine Learning, and Automated Threat Intelligence to build secure & resilient architectures.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **AI / Machine Learning & Security**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=matrix&hide_border=true&count_private=true" alt="Dimitrios's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=matrix&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
