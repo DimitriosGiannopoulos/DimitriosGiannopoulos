@@ -55,18 +55,7 @@ I design secure, resilient architectures by integrating advanced cybersecurity f
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DimitriosGiannopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DimitriosGiannopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGiannopoulos&theme=dark&background=0D1117&fire=00FF66&ring=00FF66&currStreakLabel=00FF66" width="60%" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
